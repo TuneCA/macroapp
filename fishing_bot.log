@@ -1,0 +1,282 @@
+2025-08-13 05:38:37,473 - INFO - Fishing bot initialized
+2025-08-13 05:38:37,475 - INFO - Target: 10 fish
+2025-08-13 05:38:37,475 - INFO - Search region: [1520, 760, 200, 200]
+2025-08-13 05:38:37,475 - INFO - === Fishing Bot Started ===
+2025-08-13 05:38:37,475 - INFO - Press Ctrl+C to stop
+2025-08-13 05:38:37,475 - INFO - Move mouse to top-left corner for emergency stop
+2025-08-13 05:38:37,476 - INFO - Starting fishing session...
+2025-08-13 05:38:37,476 - INFO - Attempting to cast...
+2025-08-13 05:38:38,630 - WARNING - Cast button not found
+2025-08-13 05:38:39,732 - INFO - Attempting to cast...
+2025-08-13 05:38:40,867 - WARNING - Cast button not found
+2025-08-13 05:38:41,969 - INFO - Attempting to cast...
+2025-08-13 05:38:43,109 - WARNING - Cast button not found
+2025-08-13 05:38:44,210 - INFO - Attempting to cast...
+2025-08-13 05:38:45,349 - WARNING - Cast button not found
+2025-08-13 05:38:46,451 - INFO - Attempting to cast...
+2025-08-13 05:38:47,595 - WARNING - Cast button not found
+2025-08-13 05:38:48,696 - INFO - Attempting to cast...
+2025-08-13 05:38:49,834 - WARNING - Cast button not found
+2025-08-13 05:38:50,935 - INFO - Attempting to cast...
+2025-08-13 05:38:52,071 - WARNING - Cast button not found
+2025-08-13 05:38:53,172 - INFO - Attempting to cast...
+2025-08-13 05:38:54,312 - WARNING - Cast button not found
+2025-08-13 05:38:55,414 - INFO - Attempting to cast...
+2025-08-13 05:38:56,223 - INFO - Cast successful! Waiting for bite...
+2025-08-13 05:38:56,323 - INFO - Attempting to reel in...
+2025-08-13 05:38:57,467 - WARNING - Reel button not found
+2025-08-13 05:38:58,567 - INFO - Attempting to cast...
+2025-08-13 05:38:59,917 - INFO - Cast successful! Waiting for bite...
+2025-08-13 05:39:00,018 - INFO - Attempting to reel in...
+2025-08-13 05:39:01,163 - WARNING - Reel button not found
+2025-08-13 05:39:02,264 - INFO - Attempting to cast...
+2025-08-13 05:39:03,399 - WARNING - Cast button not found
+2025-08-13 05:39:04,501 - INFO - Attempting to cast...
+2025-08-13 05:39:05,638 - WARNING - Cast button not found
+2025-08-13 05:39:06,739 - INFO - Attempting to cast...
+2025-08-13 05:39:07,878 - WARNING - Cast button not found
+2025-08-13 05:39:08,980 - INFO - Attempting to cast...
+2025-08-13 05:39:10,332 - INFO - Cast successful! Waiting for bite...
+2025-08-13 05:39:10,433 - INFO - Attempting to reel in...
+2025-08-13 05:39:11,572 - WARNING - Reel button not found
+2025-08-13 05:39:12,675 - INFO - Attempting to cast...
+2025-08-13 05:39:13,843 - WARNING - Cast button not found
+2025-08-13 05:39:14,944 - INFO - Attempting to cast...
+2025-08-13 05:39:16,079 - WARNING - Cast button not found
+2025-08-13 05:39:19,032 - INFO - Fishing bot initialized
+2025-08-13 05:39:19,033 - INFO - Target: 10 fish
+2025-08-13 05:39:19,033 - INFO - Search region: [1520, 760, 200, 200]
+2025-08-13 05:39:19,033 - INFO - === Fishing Bot Started ===
+2025-08-13 05:39:19,033 - INFO - Press Ctrl+C to stop
+2025-08-13 05:39:19,033 - INFO - Move mouse to top-left corner for emergency stop
+2025-08-13 05:39:19,033 - INFO - Starting fishing session...
+2025-08-13 05:39:19,034 - INFO - Attempting to cast...
+2025-08-13 05:39:20,186 - WARNING - Cast button not found
+2025-08-13 05:39:21,287 - INFO - Attempting to cast...
+2025-08-13 05:39:22,429 - WARNING - Cast button not found
+2025-08-13 05:39:23,530 - INFO - Attempting to cast...
+2025-08-13 05:39:24,880 - INFO - Cast successful! Waiting for bite...
+2025-08-13 05:39:24,980 - INFO - Attempting to reel in...
+2025-08-13 05:39:26,119 - WARNING - Reel button not found
+2025-08-13 05:39:27,220 - INFO - Attempting to cast...
+2025-08-13 05:39:28,360 - WARNING - Cast button not found
+2025-08-13 05:39:29,461 - INFO - Attempting to cast...
+2025-08-13 05:39:30,603 - WARNING - Cast button not found
+2025-08-13 05:39:31,704 - INFO - Attempting to cast...
+2025-08-13 05:39:32,843 - WARNING - Cast button not found
+2025-08-13 05:39:33,945 - INFO - Attempting to cast...
+2025-08-13 05:39:35,085 - WARNING - Cast button not found
+2025-08-13 05:39:36,187 - INFO - Attempting to cast...
+2025-08-13 05:39:37,321 - WARNING - Cast button not found
+2025-08-13 05:39:38,423 - INFO - Attempting to cast...
+2025-08-13 05:39:39,562 - WARNING - Cast button not found
+2025-08-13 05:39:40,664 - INFO - Attempting to cast...
+2025-08-13 05:39:41,469 - INFO - Cast successful! Waiting for bite...
+2025-08-13 05:39:41,570 - INFO - Attempting to reel in...
+2025-08-13 05:39:42,708 - WARNING - Reel button not found
+2025-08-13 05:39:43,810 - INFO - Attempting to cast...
+2025-08-13 05:39:44,954 - WARNING - Cast button not found
+2025-08-13 05:39:46,056 - INFO - Attempting to cast...
+2025-08-13 05:39:47,192 - WARNING - Cast button not found
+2025-08-13 05:39:48,294 - INFO - Attempting to cast...
+2025-08-13 05:39:49,431 - WARNING - Cast button not found
+2025-08-13 05:39:50,532 - INFO - Attempting to cast...
+2025-08-13 05:39:51,670 - WARNING - Cast button not found
+2025-08-13 05:39:52,771 - INFO - Attempting to cast...
+2025-08-13 05:39:53,913 - WARNING - Cast button not found
+2025-08-13 05:39:55,015 - INFO - Attempting to cast...
+2025-08-13 05:39:55,261 - INFO - Cast successful! Waiting for bite...
+2025-08-13 05:39:55,362 - INFO - Attempting to reel in...
+2025-08-13 05:39:56,498 - WARNING - Reel button not found
+2025-08-13 05:39:57,600 - INFO - Attempting to cast...
+2025-08-13 05:39:58,736 - WARNING - Cast button not found
+2025-08-13 05:39:59,838 - INFO - Attempting to cast...
+2025-08-13 05:40:00,978 - WARNING - Cast button not found
+2025-08-13 05:40:02,085 - INFO - Attempting to cast...
+2025-08-13 05:40:03,222 - WARNING - Cast button not found
+2025-08-13 05:40:04,325 - INFO - Attempting to cast...
+2025-08-13 05:40:05,497 - WARNING - Cast button not found
+2025-08-13 05:40:06,598 - INFO - Attempting to cast...
+2025-08-13 05:40:07,740 - WARNING - Cast button not found
+2025-08-13 05:40:08,842 - INFO - Attempting to cast...
+2025-08-13 05:40:09,099 - INFO - Cast successful! Waiting for bite...
+2025-08-13 05:40:09,200 - INFO - Attempting to reel in...
+2025-08-13 05:40:10,340 - WARNING - Reel button not found
+2025-08-13 05:40:11,441 - INFO - Attempting to cast...
+2025-08-13 05:40:12,582 - WARNING - Cast button not found
+2025-08-13 05:40:13,683 - INFO - Attempting to cast...
+2025-08-13 05:40:14,837 - WARNING - Cast button not found
+2025-08-13 05:40:15,939 - INFO - Attempting to cast...
+2025-08-13 05:40:17,074 - WARNING - Cast button not found
+2025-08-13 05:40:18,176 - INFO - Attempting to cast...
+2025-08-13 05:40:19,317 - WARNING - Cast button not found
+2025-08-13 05:40:20,418 - INFO - Attempting to cast...
+2025-08-13 05:40:20,674 - INFO - Cast successful! Waiting for bite...
+2025-08-13 05:40:20,774 - INFO - Attempting to reel in...
+2025-08-13 05:40:21,912 - WARNING - Reel button not found
+2025-08-13 05:40:23,014 - INFO - Attempting to cast...
+2025-08-13 05:40:24,154 - WARNING - Cast button not found
+2025-08-13 05:40:25,255 - INFO - Attempting to cast...
+2025-08-13 05:40:26,394 - WARNING - Cast button not found
+2025-08-13 05:40:27,495 - INFO - Attempting to cast...
+2025-08-13 05:40:28,651 - WARNING - Cast button not found
+2025-08-13 05:40:29,753 - INFO - Attempting to cast...
+2025-08-13 05:40:30,892 - WARNING - Cast button not found
+2025-08-13 05:40:31,993 - INFO - Attempting to cast...
+2025-08-13 05:40:33,137 - WARNING - Cast button not found
+2025-08-13 05:41:48,731 - INFO - Fishing bot initialized
+2025-08-13 05:41:48,731 - INFO - Target: 10 fish
+2025-08-13 05:41:48,731 - INFO - Search region: [1520, 760, 200, 200]
+2025-08-13 05:41:48,731 - INFO - === Fishing Bot Started ===
+2025-08-13 05:41:48,731 - INFO - Press Ctrl+C to stop
+2025-08-13 05:41:48,731 - INFO - Move mouse to top-left corner for emergency stop
+2025-08-13 05:41:48,731 - INFO - Starting fishing session...
+2025-08-13 05:41:48,731 - INFO - Attempting to cast...
+2025-08-13 05:41:48,994 - INFO - Cast successful! Waiting for bite...
+2025-08-13 05:42:11,089 - INFO - Interrupted by user
+2025-08-13 05:42:11,089 - INFO - === Fishing Statistics ===
+2025-08-13 05:42:11,089 - INFO - Fish caught: 0/10
+2025-08-13 05:42:11,089 - INFO - Cast attempts: 1
+2025-08-13 05:42:11,089 - INFO - Reel attempts: 0
+2025-08-13 05:42:11,090 - INFO - Success rate: 0.0%
+2025-08-13 05:42:11,090 - INFO - Elapsed time: 22.4s
+2025-08-13 05:42:11,090 - INFO - Current state: WAITING_FOR_BITE
+2025-08-13 05:42:11,090 - INFO - Fishing session ended
+2025-08-13 05:42:11,090 - INFO - Fishing bot shutdown complete
+2025-08-13 05:43:29,091 - INFO - Fishing bot initialized
+2025-08-13 05:43:29,091 - INFO - Target: 10 fish
+2025-08-13 05:43:29,091 - INFO - Search region: [1520, 760, 200, 200]
+2025-08-13 05:43:29,091 - INFO - === Fishing Bot Started ===
+2025-08-13 05:43:29,091 - INFO - Press Ctrl+C to stop
+2025-08-13 05:43:29,091 - INFO - Move mouse to top-left corner for emergency stop
+2025-08-13 05:43:29,093 - INFO - Starting fishing session...
+2025-08-13 05:43:29,093 - INFO - Attempting to cast...
+2025-08-13 05:43:29,352 - INFO - Cast successful! Waiting for bite...
+2025-08-13 05:43:29,389 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:29,631 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:29,869 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:30,108 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:30,349 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:30,590 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:30,828 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:31,070 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:31,308 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:31,552 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:31,791 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:32,029 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:32,270 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:32,508 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:32,752 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:32,989 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:33,227 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:33,469 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:33,711 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:33,949 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:34,189 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:34,430 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:34,672 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:34,909 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:35,152 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:35,397 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:35,645 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:35,887 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:36,138 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:36,376 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:36,621 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:36,874 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:37,125 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:37,365 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:37,603 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:37,845 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:38,081 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:38,330 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:38,576 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:38,817 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:39,057 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:39,297 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:39,536 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:39,785 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:40,030 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:40,271 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:40,509 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:40,751 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:40,990 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:41,231 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:41,470 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:41,711 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:41,950 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:42,188 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:42,429 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:42,670 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:42,911 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:43,149 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:43,392 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:43,630 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:43,874 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:44,123 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:44,362 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:44,603 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:44,844 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:45,088 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:45,327 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:45,564 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:45,807 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:46,044 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:46,284 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:46,524 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:46,766 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:47,005 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:47,253 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:47,496 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:47,737 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:47,980 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:48,221 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:48,461 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:48,697 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:48,939 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:49,177 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:49,417 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:49,658 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:49,898 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:50,137 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:50,378 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:50,620 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:50,859 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:51,100 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:51,340 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:51,579 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:51,820 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:52,059 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:52,300 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:52,555 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:52,807 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:53,353 - INFO - Fishing bot initialized
+2025-08-13 05:43:53,354 - INFO - Target: 10 fish
+2025-08-13 05:43:53,354 - INFO - Search region: [1520, 760, 200, 200]
+2025-08-13 05:43:53,354 - INFO - === Fishing Bot Started ===
+2025-08-13 05:43:53,354 - INFO - Press Ctrl+C to stop
+2025-08-13 05:43:53,354 - INFO - Move mouse to top-left corner for emergency stop
+2025-08-13 05:43:53,354 - INFO - Starting fishing session...
+2025-08-13 05:43:53,354 - INFO - Attempting to cast...
+2025-08-13 05:43:53,608 - INFO - Cast successful! Waiting for bite...
+2025-08-13 05:43:53,708 - INFO - Attempting to reel in...
+2025-08-13 05:43:53,753 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:54,303 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:54,846 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:43:54,847 - WARNING - Reel button not found
+2025-08-13 05:43:55,948 - INFO - Attempting to cast...
+2025-08-13 05:43:57,091 - WARNING - Cast button not found
+2025-08-13 05:43:58,192 - INFO - Attempting to cast...
+2025-08-13 05:43:59,331 - WARNING - Cast button not found
+2025-08-13 05:44:00,432 - INFO - Attempting to cast...
+2025-08-13 05:44:01,590 - WARNING - Cast button not found
+2025-08-13 05:44:02,691 - INFO - Attempting to cast...
+2025-08-13 05:44:03,489 - INFO - Cast successful! Waiting for bite...
+2025-08-13 05:44:03,590 - INFO - Attempting to reel in...
+2025-08-13 05:44:03,637 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:44:04,186 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:44:04,728 - ERROR - Error finding image image/reel.png: needle dimension(s) exceed the haystack image or region dimensions
+2025-08-13 05:44:04,729 - WARNING - Reel button not found
+2025-08-13 05:44:05,830 - INFO - Attempting to cast...
+2025-08-13 05:44:06,971 - WARNING - Cast button not found
+2025-08-13 05:44:08,072 - INFO - Attempting to cast...
