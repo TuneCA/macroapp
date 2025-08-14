@@ -23,12 +23,12 @@ class Fishing:
     def wait_for_reel(self):
         """Continuously monitor for reel button to appear and click immediately"""
         print("Waiting for reel button to appear...")
-        max_wait_time = 30  # Maximum wait time in seconds (adjust as needed)
+        max_wait_time = 10 # Maximum wait time in seconds (adjust as needed)
         start_time = time.time()
         
         while time.time() - start_time < max_wait_time:
             # Check for reel button every 0.1 seconds for quick response
-            pull_position = pyautogui.locateCenterOnScreen('image/reel.png', confidence=.93, region=(1422, 674,200, 200))
+            pull_position = pyautogui.locateCenterOnScreen('image/reel.png', confidence=.92, region=(1422, 674,200, 200))
             if pull_position != None:
                 btnPull = pyautogui.moveTo(pull_position)
                 pyautogui.click(btnPull)
@@ -39,7 +39,7 @@ class Fishing:
                 return True
             
             # Small delay to prevent excessive CPU usage but still be responsive
-            time.sleep(0.1)
+            time.sleep(0.05)
         
         # Timeout - reel button didn't appear
         print("Timeout waiting for reel button, resetting to cast")
