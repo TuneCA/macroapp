@@ -28,7 +28,7 @@ class Fishing:
         
         while time.time() - start_time < max_wait_time:
             # Check for reel button every 0.1 seconds for quick response
-            pull_position = pyautogui.locateCenterOnScreen('image/reel.png', confidence=.95, region=(1422, 674,200, 200))
+            pull_position = pyautogui.locateCenterOnScreen('image/reel.png', confidence=.93, region=(1422, 674,200, 200))
             if pull_position != None:
                 btnPull = pyautogui.moveTo(pull_position)
                 pyautogui.click(btnPull)
